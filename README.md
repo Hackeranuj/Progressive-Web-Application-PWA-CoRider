@@ -44,9 +44,6 @@ To run this project locally or deploy it on your preferred platform, follow thes
    Open your web browser and navigate to `http://localhost:5173/` to view the application.
 
 
-### Notes:
-- Replace `#https://webapplication-pwacorider2024-23wsdl3wy.vercel.app/` with the actual deployment URL once you have deployed your application.
-- Replace `https://github.com/Hackeranuj/Progressive-Web-Application-PWA-CoRider` with the actual GitHub repository URL where you have uploaded your code.
-- Replace `anujgahra244304@gmail.com` with your contact email address for inquiries or feedback.
+
 
 This Markdown file format provides clear instructions and sections for easy navigation and understanding of your project for anyone visiting your GitHub repository. Adjust the content as needed based on any specific project details or additional features you might want to highlight.
