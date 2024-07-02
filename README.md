@@ -8,7 +8,7 @@ Welcome to the Chat Screen Progressive Web Application (PWA) project! This appli
 
 - **ReactJS:** Built with ReactJS for efficient UI rendering and state management.
 - **Infinite Scrolling:** Loads older chat messages dynamically as the user scrolls up.
-- **Deployment:** Deployed on [Netlify](https://www.netlify.com/) for hosting. You can access the deployed application [here](#replace-with-your-actual-deployment-url).
+- **Deployment:** Deployed on [Vercel](https://www.vercel.com/) for hosting. You can access the deployed application [here](#https://webapplication-pwacorider2024-23wsdl3wy.vercel.app/).
 
 ## Installation and Setup
 
