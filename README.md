@@ -3,9 +3,6 @@
 
 Welcome to the Chat Screen Progressive Web Application (PWA) project! This application is developed using ReactJS to create a chat interface that functions similarly to typical mobile chat applications. It supports installation on Android and iOS devices as a PWA.
 
-## Project Overview
-
-The goal of this assignment is to develop a single-page PWA that mimics the UI provided, with specific interactions triggered by tapping the three dots in the top right corner. The application retrieves chat data from the provided API and implements infinite scrolling to fetch older messages as users scroll up.
 
 ## Features
 
